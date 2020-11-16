@@ -6,3 +6,6 @@
 - 💬 Ask me about nothing, I'm boring
 - 📫 How to reach me: Telegram
 - ⚡ Fun fact: What fact?
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
